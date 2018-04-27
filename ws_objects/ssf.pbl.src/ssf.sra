@@ -25,6 +25,7 @@ error = create error
 end on
 //001
 //002
+//003
 on ssf.destroy
 destroy( sqlca )
 destroy( sqlda )
