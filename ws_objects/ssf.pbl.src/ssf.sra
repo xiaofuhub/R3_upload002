@@ -14,7 +14,7 @@ global type ssf from application
 string appname = "ssf"
 end type
 global ssf ssf
-
+//0007
 on ssf.create
 appname = "ssf"
 message = create message
