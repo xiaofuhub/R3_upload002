@@ -15,6 +15,7 @@ string appname = "ssf"
 end type
 global ssf ssf
 //0007
+//002
 on ssf.create
 appname = "ssf"
 message = create message
