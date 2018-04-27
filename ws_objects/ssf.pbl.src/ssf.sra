@@ -1,4 +1,3 @@
-
 $PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
@@ -10,7 +9,7 @@ global dynamicstagingarea sqlsa
 global error error
 global message message
 end forward
-
+//0999
 global type ssf from application
 string appname = "ssf"
 end type
