@@ -1,3 +1,4 @@
+
 $PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
@@ -26,7 +27,7 @@ error = create error
 end on
 //001
 //002
-//003
+//002
 on ssf.destroy
 destroy( sqlca )
 destroy( sqlda )
