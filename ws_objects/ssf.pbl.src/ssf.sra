@@ -1,3 +1,4 @@
+
 $PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
@@ -17,6 +18,7 @@ end type
 global ssf ssf
 //0007
 //002
+//000
 on ssf.create
 appname = "ssf"
 message = create message
