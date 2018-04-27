@@ -1,3 +1,4 @@
+
 $PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
@@ -25,6 +26,7 @@ sqlsa = create dynamicstagingarea
 error = create error
 end on
 //001
+//002
 //002
 on ssf.destroy
 destroy( sqlca )
