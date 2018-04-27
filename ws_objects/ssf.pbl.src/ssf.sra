@@ -28,6 +28,7 @@ end on
 //001
 //002
 //002
+//abn
 on ssf.destroy
 destroy( sqlca )
 destroy( sqlda )
