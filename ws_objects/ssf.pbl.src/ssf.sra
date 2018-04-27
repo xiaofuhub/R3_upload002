@@ -1,4 +1,5 @@
-﻿$PBExportHeader$ssf.sra
+
+$PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
 global type ssf from application
@@ -23,7 +24,7 @@ sqlda = create dynamicdescriptionarea
 sqlsa = create dynamicstagingarea
 error = create error
 end on
-
+//001
 on ssf.destroy
 destroy( sqlca )
 destroy( sqlda )
