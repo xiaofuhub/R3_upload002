@@ -10,6 +10,7 @@ global error error
 global message message
 end forward
 //099902
+//000088
 global type ssf from application
 string appname = "ssf"
 end type
