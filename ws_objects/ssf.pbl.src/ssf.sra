@@ -1,6 +1,4 @@
-
-
-$PBExportHeader$ssf.sra
+﻿$PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
 global type ssf from application
@@ -11,34 +9,29 @@ global dynamicstagingarea sqlsa
 global error error
 global message message
 end forward
-//099902
-//000088
+
 global type ssf from application
 string appname = "ssf"
 end type
 global ssf ssf
-//0007
-//002
-//000
-//0003
+
 on ssf.create
-appname = "ssf"
-message = create message
-sqlca = create transaction
-sqlda = create dynamicdescriptionarea
-sqlsa = create dynamicstagingarea
-error = create error
+appname="ssf"
+message=create message
+sqlca=create transaction
+sqlda=create dynamicdescriptionarea
+sqlsa=create dynamicstagingarea
+error=create error
 end on
-//001
-//002
-//002
-//abn
-//544
+
 on ssf.destroy
-destroy( sqlca )
-destroy( sqlda )
-destroy( sqlsa )
-destroy( error )
-destroy( message )
+destroy(sqlca)
+destroy(sqlda)
+destroy(sqlsa)
+destroy(error)
+destroy(message)
 end on
+
+event open;//01
+end event
 
