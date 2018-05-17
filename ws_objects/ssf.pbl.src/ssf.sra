@@ -1,4 +1,5 @@
-﻿$PBExportHeader$ssf.sra
+
+$PBExportHeader$ssf.sra
 $PBExportComments$Generated Application Object
 forward
 global type ssf from application
@@ -33,5 +34,6 @@ destroy(message)
 end on
 //0222
 event open;//01
+//03033
 end event
 
