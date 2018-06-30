@@ -15,4 +15,4 @@ mmmmmmm
 //0001 002  003 branck
 https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2012/ms181370(v%3dvs.110)#refresh-version-control-status
 https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2012/bb892960%28v%3dvs.110%29  //local workspaces & server workspaces
-
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2012/ms181383(v=vs.110)
