@@ -10,3 +10,6 @@
 
 4. Test Merge
    Merge(repo, path, &opt); //Merge API
+
+5. Test Branch
+   MergeBranch(repo, path, &kell); //Branch
