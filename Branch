@@ -171,11 +171,11 @@ SHUTDOWN:
     git_index_write_tree(&new_tree_id, index);
     git_tree_lookup(&new_tree, rep, &new_tree_id);
 
-    git_signature_now(&me, "XiaochenFTX", "xiaochenftx@gmail.com");
+    git_signature_now(&me, "xiaofuhub", "xiaofuhub@163.com");
 
     git_repository_head(&head, rep);
-    git_commit_lookup(&parent_our, rep, git_reference_target(head));
-    git_commit_lookup(&parent_their, rep, git_reference_target(branch));
+    git_commit_lookup(&parent_our, rep, git_reference_target(head));   // 获取当前分支的HEAD
+    git_commit_lookup(&parent_their, rep, git_reference_target(branch));  // 获取其他分支的HEAD
 
     git_commit_create_v(&commit_id, rep, "HEAD", me, me, "UTF-8", "merge commit", new_tree, 2, parent_our, parent_their);
 
