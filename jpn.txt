@@ -1,2 +1,5 @@
 
 show diffアプリケーションを選択してください
+アプリケーションを選択  // select application
+プログラム   // programs
+すべてのファイル   // all files
