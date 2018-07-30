@@ -1,0 +1,111 @@
+{
+	"commandbutton":
+	{
+		"drawing":true,
+		"normal-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-normal.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"hover-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-hover.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"pressed-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-pressed.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"focused-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-focused.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"default-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-default.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"disabled-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"commandbutton-disabled.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		}
+	},
+	"singlelineedit":
+	{
+		"drawing":true,
+		"normal-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-normal.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"hover-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-hover.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"pressed-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-pressed.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"focused-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-focuse.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"disabled-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-disable.bmp", "display":false},
+			"text-font":{"color":"#000000", "facename":"宋体", "height":16,	"width":12,	"escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"readonly-state":
+		{
+			"border-width":1,
+			"border-color":"#F5F5DC",
+			"background-color":"#FFE4C4",
+			"background-image":{"file":"singlelienedit-readonly.bmp", "display":false},
+			"text-font":{"color":"#000000",	"facename":"宋体", "height":16, "width":12, "escapement":0, "orientation":0, "weight":50, "italic":0, "underline":0, "strikeout":0, "charset":0, "outprecision":0, "clipprecision":0, "quality":0, "pitchandfamily":0}
+		},
+		"selected-state":
+		{
+			"selection-color":"#FFFF00FF",
+			"text-font":{"selectioncolor":"#FFFFFFFF"}
+		}
+	}
+}
